@@ -6,11 +6,11 @@
 </script>
 
 <svelte:head>
-	<title>Portfolio | NotYasho</title>
-	<meta name="title" content="Portfolio | NotYasho" />
+	<title>dev | mast3rle</title>
+	<meta name="title" content="dev | mast3rle" />
 	<meta
 		name="description"
-		content="Hi! This is my portfolio site as a (emerging) software developer :P. Explore my projects, experience, and blog posts to learn more."
+		content="Hi! This is my blogging site for all me code projects as a medical student who randomly decided to learn code :P. BEHOLD.... take a gander at me current works."
 	/>
 	<meta
 		name="image"
@@ -20,11 +20,11 @@
 
 	<!-- Open Graph / Facebook -->
 	<meta property="og:type" content="website" />
-	<meta property="og:url" content="https://notyasho.netlify.app/" />
-	<meta property="og:title" content="NotYasho - Portfolio" />
+	<meta property="og:url" content="https://dev.mast3rle.xyz/" />
+	<meta property="og:title" content="dev - mast3rle" />
 	<meta
 		property="og:description"
-		content="Hi! This is my portfolio site as a (emerging) software developer :P. Explore my projects, experience, and blog posts to learn more."
+		content="Hi! This is my blogging site for all me code projects as a medical student who randomly decided to learn code :P. BEHOLD.... take a gander at me current works."
 	/>
 	<meta property="og:image" content="https://raw.githubusercontent.com/NotYasho/notyasho.netlify.app/master/static/img/thumbnails/portfolio.png" />
 

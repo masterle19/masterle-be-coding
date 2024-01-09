@@ -5,7 +5,11 @@
 	<slot />
 	<div class="hero__content" data-scroll>
 		<img src="/img/svg/avatar.svg" alt="">
-		<p>This portfolio isn't completed yet, however it's <strong>not</strong> under construction either. It may get updated once I get time to work on it. More information <a href="/about">here</a> :(</p>
+		<p>HOLD YA <strong>DAMN HORSES</strong>--this page is not quite completed yet. 
+		Buuuut... you can go <a href="/about">here</a> to read about MEEEEEEE. :D</p>
+		<p>
+		No? Rude af. OKAY THEN... then just...
+		</p>
 		
 		<a class="btn" href="/blogs">READ THE BLOG</a>
 	</div>

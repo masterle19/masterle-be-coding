@@ -31,14 +31,13 @@
 			</div>
 			<div class="modal-body">
 				<p>
-					Apologies for interrupting. <br />
-					Just a heads up: I <strong>no longer work on the developement of this site.</strong> <a href="/about">What happened?</a>
+					Apologies for interrupting. I'm not sure how to get rid of this pop up screen, so I will use it my advantage with the following public announcement: <br />
+					Just an fyi: the creater of this site has a <strong>fat dump truck.</strong> <a href="/about">What happened?</a>
 				</p>
 				<p>
-					The articles are mostly placeholders and AI-generated, so <strong>they may contain false information</strong>. They will be deleted however,
-					once the site becomes saturated with actual content.
+					Thank you for your time.
 				</p>
-				<p><strong>Thank you! and feel free to explore!</strong></p>
+				<p><strong>Please click 'I UNDERSTAND' if you... understand. </strong></p>
 			</div>
 			<div class="modal-footer">
 				<button class="cta-btn btn" on:click={destroy}>I UNDERSTAND</button>

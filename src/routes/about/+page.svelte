@@ -2,33 +2,31 @@
 	<h1>ABOUT</h1>
 	<hr />
 	<img
-		src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzc4NWMzMjRhYWQzOTNiOTE2ZGYzOTc5ZGVlZDhmOTIxYjM2NGI2MCZjdD1n/ASd0Ukj0y3qMM/giphy.gif"
+		src="https://media.giphy.com/media/uk3R91z24SoUZ27WTh/giphy.gif"
 		alt="goodbye"
 	/>
 	<p>Hey there!</p>
 	<p />
 	<p>
-		So, I've got some news to share with you about this awesome site we've been working on. I've been working on it for almost 2 years now, and I've
-		loved every minute of it - adding features, switching frameworks — wayyy too many times — debugging like crazy, and even deploying some silly code
-		to production!
+		I'm Master Le. And I've got.... too many focking websites and apps... and projects... and ideas...
+		And so, THIS site will be my little spot to write about ongoing tingz that involve coding or webdev.
 	</p>
 	<p>
-		It's been a wild ride, but now it's time for me to take a break. <span> (*cough* JEE *cough*) </span>
-		Unfortunately, I have some big exams coming up that I need to focus on, which means I won't be able to work on the site for a while. How long, you
-		ask? Well, nearly 2 years! I know, it's a bummer. But hey, life happens, right?
-		<br />
-		<br />
-		Like seriously, I've got a LOT of studying to do and I won't be able to code for a while. So, some of the pages might be a little wonky, and some stuff
-		might not work right. So apologies for that. I'll try to fix them when I get time, but I can't promise anything.
+		It's been... such an interesting ride, and if I don't document these tingz now... then how will I roast
+		myself in the future when I look back in the future as I reminisce my coding days and think... "Boi, wat da hail, boy?"
+		and don't hesitate 
 	</p>
 	<p>
-		Anyway, I just wanted to let you know what's going on. Don't worry, though - I'll be back at it as soon as I can. In the meantime, keep checking
-		the site for updates and don't hesitate to <a href="/contact">drop me a line if you've got any questions or comments.</a>
+		Anyway, have fun getting lost in the multitude of sites I've got hosted that somehow... someway... connect and/or lead back to this 
+		one. And for the folks that never pick up a book in their entire life and will likely get bored reading all dis 
+		shit (honestly I could too--I get bored writing it sometimes man), 
+		just click <a href="https://mast3rle.mmm.page/" target="_blank" title="null" rel="noopener noreferrer">on dis link</a> 
+		for the same content but presented in with more fun buttons and colors and less boring ass words; enjoy your first Master Le rabbit hole!
 	</p>
-	<p>Take care, stay awesome, and keep reading :)</p>
+	<p>Take care, bai.</p>
 	<p>
 		Best regards, <br />
-		<s>Not</s>Yasho
+		Master Le
 	</p>
 </main>
 
