@@ -31,11 +31,11 @@
 			</div>
 			<div class="modal-body">
 				<p>
-					Apologies for interrupting. I'm not sure how to get rid of this pop up screen, so I will use it my advantage with the following public announcement: <br />
-					Just an fyi: the creater of this site has a <strong>fat dump truck.</strong> <a href="/about">What happened?</a>
+					Apologies for interrupting. I'm not sure how to get rid of this pop up screen, so I will use it my advantage with the following public announcement:<br />
 				</p>
 				<p>
-					Thank you for your time.
+					The creater of this site has a <strong>fat dump truck.</strong> If the idea of a master le with a fat dump trunk intrigues you,
+					and you wish to learn more about said master, then <a href="/about">you may click here.</a>Thank you for your time.
 				</p>
 				<p><strong>Please click 'I UNDERSTAND' if you... understand. </strong></p>
 			</div>
