@@ -14,28 +14,28 @@
 
 <svelte:head>
 	<!-- Primary Meta Tags -->
-	<title>Blogs | NotYasho</title>
-	<meta name="title" content="Blogs | NotYasho" />
+	<title>Blogs | mast3rle</title>
+	<meta name="title" content="Blogs | mast3rle" />
 	<meta
 		name="description"
 		content="Explore all sorts of blogs written by me, be it on programming, graphic design, productivity etc. This my official blog page for my website."
 	/>
-	<meta name="image" content="https://raw.githubusercontent.com/NotYasho/notyasho.netlify.app/master/static/img/thumbnails/blogs.png" />
+	<meta name="image" content="https://raw.githubusercontent.com/mast3rle/dev.mast3rle.xyz/master/static/img/thumbnails/blogs.png" />
 
 	<!-- Open Graph / Facebook -->
 	<meta property="og:type" content="website" />
-	<meta property="og:url" content="https://notyasho.netlify.app/blogs" />
-	<meta property="og:title" content="Blogs | NotYasho" />
+	<meta property="og:url" content="https://dev.mast3rle.xyz/blogs" />
+	<meta property="og:title" content="Blogs | mast3rle" />
 	<meta
 		property="og:description"
 		content="Explore all sorts of blogs written by me, be it on programming, graphic design, productivity etc. This my official blog page for my website."
 	/>
-	<meta property="og:image" content="https://raw.githubusercontent.com/NotYasho/notyasho.netlify.app/master/static/img/thumbnails/blogs.png" />
+	<meta property="og:image" content="https://raw.githubusercontent.com/mast3rle/dev.mast3rle.xyz/master/static/img/thumbnails/blogs.png" />
 
 	<!-- Twitter -->
 	<meta property="twitter:card" content="summary_large_image" />
-	<meta property="twitter:url" content="https://notyasho.netlify.app/blogs" />
-	<meta property="twitter:title" content="Blogs | NotYasho" />
+	<meta property="twitter:url" content="https://dev.mast3rle.xyz/blogs" />
+	<meta property="twitter:title" content="Blogs | mast3rle" />
 	<meta
 		property="twitter:description"
 		content="Explore all sorts of blogs written by me, be it on programming, graphic design, productivity etc. This my official blog page for my website."
