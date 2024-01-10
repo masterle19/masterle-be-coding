@@ -6,7 +6,7 @@
 	<div class="container">
 		<p>&copy; <span id="year" />MASTER LE {new Date().getFullYear()}. All rights reserved 4 My Batt.</p>
 		<p>
-			Made with lots of <span style="color: #eb345e">♥</span> by <a href="https://masterle.lol/">your favorite detective.</a>
+			Made with lots of <span style="color: #eb345e">♥</span> by <a href="https://www.masterle.lol/">your favorite detective.</a>
 		</p>
 		<div class="social-links">
 			<a href="https://www.github.com/mast3rle" title="Github" rel="noreferrer" target="_blank"><Icon icon="mdi:github" /></a>
