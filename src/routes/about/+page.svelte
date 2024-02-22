@@ -20,7 +20,7 @@
 		Anyway, have fun getting lost in the multitude of sites I've got hosted that somehow... someway... connect and/or lead back to this 
 		one. And for the folks that never pick up a book in their entire life and will likely get bored reading all dis 
 		shit (honestly I could too--I get bored writing it sometimes man), 
-		just click <a href="https://mast3rle.mmm.page/" target="_blank" title="null" rel="noopener noreferrer">on dis link</a> 
+		just click <a href="https://notmasterle.mmm.page/" target="_blank" title="null" rel="noopener noreferrer">on dis link</a> 
 		for the same content but presented in with more fun buttons and colors and less boring ass words; enjoy your first Master Le rabbit hole!
 	</p>
 	<p>Take care, bai.</p>
