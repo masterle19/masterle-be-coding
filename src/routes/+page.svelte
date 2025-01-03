@@ -6,7 +6,7 @@
 </script>
 
 <svelte:head>
-	<title>dev | mast3rle</title>
+	<title>a d@ta d@wg kinda blog</title>
 	<meta name="title" content="br@ff!" />
 	<meta
 		name="description"
