@@ -7,7 +7,7 @@
 
 <svelte:head>
 	<title>dev | mast3rle</title>
-	<meta name="title" content="dev | mast3rle" />
+	<meta name="title" content="br@ff!" />
 	<meta
 		name="description"
 		content="Hi! This is my blogging site for all me code projects as a medical student who randomly decided to learn code :P. BEHOLD.... take a gander at me current works."
